@@ -13,7 +13,8 @@
             "compilerPath": "/usr/local/bin/gcc-10",
             "cStandard": "gnu18",
             "cppStandard": "gnu++14",
-            "intelliSenseMode": "gcc-x64"
+            "intelliSenseMode": "gcc-x64",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
         }
     ],
     "version": 4
